@@ -1,2 +1,6 @@
 *.cpp~
 *.o
+*.un~
+*.swp
+*.gitignore~
+
